@@ -3,5 +3,6 @@ package com.yyl.learndomain;
 public class B {
     public static void main(String[] args) {
         System.out.println("B_newBraanche1");
+        System.out.println("B_master");
     }
 }
